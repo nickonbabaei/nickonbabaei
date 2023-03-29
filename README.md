@@ -4,7 +4,7 @@ Hey, Nickon here![](https://user-images.githubusercontent.com/18350557/176309783
 Software Engineer
 -----------------
 
-From transitioning a background in the restaurant and retail industry to finishing the SEI Immersive program, I'm excited to achieve my full potential by pursuing a career as a junior developer. With strong communication and leadership skills, I aim to not only build a successful career, but also create a supportive network and foundation for myself and my community. My ability to maintain a level-headed mindset under stress sets me apart and positions me for success in the fast-paced tech industry.
+I am a recent graduate with a degree in Mathematics and a passion for software engineering. I have developed a strong foundation in full-stack development and am eager to apply my skills in a challenging and dynamic environment. I am confident in my ability to contribute to a team and have a proven track record of delivering high-quality results.
 
 * 🌍  I'm based in Halifax, NS, Canada
 * ✉️  You can contact me at [babaein1@gmail.com](mailto:babaein1@gmail.com)
