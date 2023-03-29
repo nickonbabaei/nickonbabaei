@@ -1,4 +1,4 @@
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nickon here!
+Hey, Nickon here![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 Software Engineer
@@ -22,10 +22,10 @@ From transitioning a background in the restaurant and retail industry to finishi
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/nickonbabaei"><img src="https://github-readme-stats.vercel.app/api?username=hby77&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hyun Bin's GitHub stats" /></a>
+<a href="https://github.com/nickonbabaei"><img src="https://github-readme-stats.vercel.app/api?username=nickonbabaei&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nickon's GitHub stats" /></a>
 
-<a href="https://github.com/nickonbabaei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hby77&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/nickonbabaei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nickonbabaei&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/nickonbabaei"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hby77&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Hyun Bin's Graph" /></a>
+<a href="https://github.com/nickonbabaei"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nickonbabaei&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Nickons Graph" /></a>
 
-<a href="https://github.com/nickonbabaei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hby77&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nickonbabaei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickonbabaei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
