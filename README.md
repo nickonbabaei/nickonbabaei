@@ -7,7 +7,7 @@ Software Engineer
 I am a recent graduate with a degree in Mathematics and a passion for software engineering. I have developed a strong foundation in full-stack development and am eager to apply my skills in a challenging and dynamic environment. I am confident in my ability to contribute to a team and have a proven track record of delivering high-quality results.
 
 * 🌍  I'm based in Toronto, ON, Canada
-* ✉️  You can contact me at [babaein1@gmail.com](mailto:babaein1@gmail.com)
+* ✉️  You can contact me at [babaei.nickon@gmail.com](mailto:babaei.nickon@gmail.com)
 * 🤝  I'm open to collaborating on any type of project
 
 ### Skills
